@@ -1,0 +1,29 @@
+{
+  "name": "wellio_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+   
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purbasa2003/Wellio_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purbasa2003/Wellio_Backend/issues"
+  },
+  "homepage": "https://github.com/Purbasa2003/Wellio_Backend#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  }
+}
